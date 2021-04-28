@@ -9,5 +9,6 @@ Thanks to @anoopmsivadas for making this theme. I've given it a new look.
 git clone https://github.com/NayamAmarshe/Cyberpunk-GRUB-Theme.git && cd Cyberp*
 sudo ./install.sh
 ```
+![Preview](Screenshots/screenshot0.png)
 
-NOTE: Tested and best viewed on the resoultion 1920x1080
+NOTE: Tested on 1920x1080 resolution.
