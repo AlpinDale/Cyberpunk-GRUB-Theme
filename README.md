@@ -1,15 +1,12 @@
 # Cyberpunk Theme for GRUB Bootloader
-A GRUB Bootloader Theme Inspired by Cyberpunk 2077 Video Game.
-
+A GRUB Bootloader Theme Inspired by Cyberpunk 2077.
+Thanks to @anoopmsivadas for making this theme. I've given it a new look.
 ![Preview](Screenshots/screenshot.png)
 
 ## Install
 
-Download from [GNOME-LOOK.ORG](https://www.gnome-look.org/p/1429443/)
-
-Extract and Run with
-
 ```shell
+git clone https://github.com/NayamAmarshe/Cyberpunk-GRUB-Theme.git && cd Cyberp*
 sudo ./install.sh
 ```
 
