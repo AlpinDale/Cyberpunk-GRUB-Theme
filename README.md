@@ -12,3 +12,5 @@ sudo ./install.sh
 ![Preview](Screenshots/screenshot0.png)
 
 NOTE: Tested on 1920x1080 resolution.
+
+### Available on pling : [https://www.pling.com/p/1515662/](https://www.pling.com/p/1515662/)
