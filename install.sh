@@ -38,7 +38,7 @@ prompt () {
 }
 
 # Welcome message
-prompt -s "\n\t************************\n\t*  ${THEME_NAME} - Grub2 Theme  *\n\t************************"
+prompt -s "\n\t************************\n\t*  ${THEME_NAME} - Cyberpunk Grub2 Ultrawide Theme  *\n\t************************"
 
 # Check command avalibility
 function has_command() {
@@ -97,7 +97,7 @@ else
   [[ -n "$REPLY" ]] && {
     sudo -S <<< $REPLY $0
   } || {
-    prompt  "\n Operation canceled  Bye"
+    prompt  "\n Operation cancelled"
     exit 1
   }
 fi
