@@ -9,7 +9,7 @@ Thanks to @anoopmsivadas and NayamAmarshe for making this theme. I've changed th
 - Ultrawide ftw
 
 ![Preview](Screenshots/screenshot.png)
-NOTE: Tested on 2560x1080 resolution.
+NOTE: Tested on 2560x1080 resolution. Image above is photoshopped to look 21:9 since I couldn't get my GRUB menu in virtualbox to run at a custom resolution. I've tested on bare metal and it works splendidly.
 
 # Install
 
